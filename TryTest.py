@@ -20,7 +20,7 @@ import string
 import calendar, datetime, traceback
 import pandas as pd
 import numpy as np
-from arcgis.gis import GIS
+#from arcgis.gis import GIS
 
 os.chdir(r'D:\Projects\TCHD\TCHD_spyder')
 
